@@ -1,5 +1,7 @@
 # Policies, Guidelines and Procedures
-Freely available templates for policies, guidelines and procedures.  Feel free to download any or all of these templates to use for your organization's needs.
+Templates for policies, guidelines and procedures available for free download courtesy of SimpleRisk.
+
+Feel free to download any or all of these templates to use for your organization's needs.
 
 # Policies
 1. Acceptable Use Policy
@@ -21,8 +23,8 @@ Freely available templates for policies, guidelines and procedures.  Feel free t
 
 # Guidelines
 1. Asset Management Lifecycle
-2. Code Repo Change Management
-3. Compliant Capital Planning and Investment Control Process
+2. Capital Planning and Investment Control Process
+3. Code Repo Change Management
 4. Customer Support IT Operations RACI
 5. Hiring Guideline
 6. ISMS
