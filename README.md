@@ -36,23 +36,23 @@ Feel free to download any or all of these templates to use for your organization
 12. Risk Management Process
 
 # Procedures
-1. 3rd Party Supplier Procedure
-2. Acceptable Use Procedure
-3. Annual System Access Review Procedure
-4. Asset Management Procedure
-5. BYOD Procedure
-6. Capital Planning and Investment Procedure
-7. Change Management Procedure
-8. Email Security Procedure
-9. Hiring Procedure
-10. Identity Access Management Procedure
-11. Incident Management Plan
-12. Information Classification Procedure
-13. Password Sharing Procedure
-14. Product Security Procedure
-15. Risk Management Procedure
-16. SDLC Procedure
-17. Security Incident Management Plan
-18. Security Privacy Procedure
-19. Security Vulnerability Procedure
-20. Software Review Procedure
+1. Acceptable Use Procedure
+2. Annual System Access Review Procedure
+3. Asset Management Procedure
+4. BYOD Procedure
+5. Capital Planning and Investment Procedure
+6. Change Management Procedure
+7. Email Security Procedure
+8. Hiring Procedure
+9. Identity Access Management Procedure
+10. Incident Management Plan
+11. Information Classification Procedure
+12. Password Sharing Procedure
+13. Product Security Procedure
+14. Risk Management Procedure
+15. SDLC Procedure
+16. Security Incident Management Plan
+17. Security Privacy Procedure
+18. Security Vulnerability Procedure
+19. Software Review Procedure
+20. Third Party Supplier Procedure
