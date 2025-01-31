@@ -2,9 +2,9 @@
   "policies": [
     {"name": "Acceptable Use Policy", "url": "https://raw.githubusercontent.com/simplerisk/templates/refs/heads/main/Policies/Acceptable_Use_Policy_Template.docx"},
     {"name": "Asset Management Policy", "url": "https://raw.githubusercontent.com/simplerisk/templates/refs/heads/main/Policies/Asset_Management_Policy_Template.docx"},
-    {"name": "Capital Planning Investment Policy", "url": "https://raw.githubusercontent.com/simplerisk/templates/refs/heads/main/Policies/CI_CD_Policy_Template.docx"},
-    {"name": "Change Management Policy", "url": "https://raw.githubusercontent.com/simplerisk/templates/refs/heads/main/Policies/Capital_Planning_Investment_Policy_Template.docx"},
-    {"name": "CI/CD Policy", "url": "https://raw.githubusercontent.com/simplerisk/templates/refs/heads/main/Policies/Change_Management_Policy_Template.docx"},
+    {"name": "Capital Planning Investment Policy", "url": "https://raw.githubusercontent.com/simplerisk/templates/refs/heads/main/Policies/Capital_Planning_Investment_Policy_Template.docx"},
+    {"name": "Change Management Policy", "url": "https://raw.githubusercontent.com/simplerisk/templates/refs/heads/main/Policies/Change_Management_Policy_Template.docx"},
+    {"name": "CI/CD Policy", "url": "https://raw.githubusercontent.com/simplerisk/templates/refs/heads/main/Policies/CI_CD_Policy_Template.docx"},
     {"name": "Communications Technologies Policy", "url": "https://raw.githubusercontent.com/simplerisk/templates/refs/heads/main/Policies/Communications_Technologies_Policy_Template.docx"},
     {"name": "Email Policy", "url": "https://raw.githubusercontent.com/simplerisk/templates/refs/heads/main/Policies/Email_Policy_Template.docx"},
     {"name": "Endpoint Policy", "url": "https://raw.githubusercontent.com/simplerisk/templates/refs/heads/main/Policies/Endpoint_Policy_Template.docx"},
