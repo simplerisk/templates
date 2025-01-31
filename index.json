@@ -19,7 +19,7 @@
   ],
   "guidelines": [
     {"name": "Asset Management Lifecycle", "url": "https://raw.githubusercontent.com/simplerisk/templates/refs/heads/main/Guidelines/Asset_Management_Lifecycle_Template.docx"},
-    {"name": "Capital Planning and Investment Control Process", "url": "https://raw.githubusercontent.com/simplerisk/templates/refs/heads/main/Guidelines/Capital_Planning_and_Investment Control_Process_Template.docx"},
+    {"name": "Capital Planning and Investment Control Process", "url": "https://raw.githubusercontent.com/simplerisk/templates/refs/heads/main/Guidelines/Capital_Planning_and_Investment_Control_Process_Template.docx"},
     {"name": "Code Repo Change Management", "url": "https://raw.githubusercontent.com/simplerisk/templates/refs/heads/main/Guidelines/Code_Repo_Change_Management_Template.docx"},
     {"name": "Customer Support IT Operations RACI", "url": "https://raw.githubusercontent.com/simplerisk/templates/refs/heads/main/Guidelines/Customer_Support_IT_Ops_RACI_Template.xlsx"},
     {"name": "Hiring Guideline", "url": "https://raw.githubusercontent.com/simplerisk/templates/refs/heads/main/Guidelines/Hiring_Guideline_Template.docx"},
